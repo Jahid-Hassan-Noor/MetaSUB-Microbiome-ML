@@ -23,24 +23,4 @@ An end-to-end Machine Learning pipeline to predict city origins based on microbi
 
 ---
 
-## 📈 Model Performance Visualization
 
-![Confusion Matrix](results/confusion_matrix_XGBoost.png)
-
----
-
-## 🛠️ Project Setup & Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/Jahid-Hassan-Noor/camda-microbiome-classification.git](https://github.com/Jahid-Hassan-Noor/camda-microbiome-classification.git)
-   cd camda-microbiome-classification
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Notebook:**
-   Open `notebooks/CAMDA2023_Microbiome_ML.ipynb` in Jupyter or Kaggle.
